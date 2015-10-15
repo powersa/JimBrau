@@ -28,7 +28,7 @@
 
 ![alt text](assets/BandBrau.JPG "Initiation!")
 
-Jim's initiation! Little did he know what this band of hoodlums had in store for him
+Jim's initiation! Little did he know what this band of jokesters had in store for him
 
 
 
@@ -76,13 +76,13 @@ And fit too!
 
 ![alt text](assets/CabinBrau.JPG "Pro puppeteer!")
 
-Jim teaching the group deconstructed puppet prov. Or making shadow puppets
+Jim teaching the group deconstructed puppet prov... Or making shadow puppets.
 
 
 
 ![alt text](assets/CheBrau.JPG "Pro puppeteer!")
 
-Jim leading the next generation of Brau
+Jim leads the next generation of Brau.
 
 
 
