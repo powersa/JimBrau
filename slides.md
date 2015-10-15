@@ -88,6 +88,6 @@ Jim leading the next generation of Brau
 
 ### **Note:** 
 
-**We tried to find a picture of Jim not smiling. It was impossible. Sending you lots of love.**
+**We tried to find a picture of Jim not smiling. It was impossible. Sending you lots of love,**
 
 **Middlebrow**
