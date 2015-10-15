@@ -52,7 +52,7 @@ Alyssa super proud of Jim's character commitment
 
 ![alt text](assets/BenchBrau.JPG "Bench!")
 
-The Limperi cam smile harder than anyone! Especially the Urquidi
+The Limperi can smile harder than anyone! Especially the Urquidi
 
 
 
