@@ -1,87 +1,85 @@
-# The presentation template
+# **Comedic Cowboy**
 
-## MaptimeCalgary
-This is the first slide.
-
-_Press `F` to go full-screen._<!-- .element: class="fragment" data-fragment-index="1" -->
-
-_Try moving `RIGHT`._<!-- .element: class="fragment" data-fragment-index="2" -->
+## A Reinterpretation of Middlebrow's Early Years
+## with Jim Limperis
 
 
 
-## Follow along
-These slides are created with Reveal.js + Markdown.
-
-Take a look at the [raw source for the slides](https://raw.githubusercontent.com/MaptimeCalgary/presentation-example/gh-pages/slides.md). The repo can be found [here](https://github.com/MaptimeCalgary/presentation-example).
+**On a cold February week in 2011, Middlebrow was faced with a dilemma. Though the group was on tour, they had encountered a *once in a generation* comedic talent in a small Rhode Island town.**
 
 
 
-## This is a new slide
-Create these by placing 3 line-breaks in the markdown source.
-
-_From here, you can move `LEFT`, `RIGHT`, or `DOWN`._ <!-- .element: class="fragment" data-fragment-index="0" -->
-
-_Try `DOWN`._ <!-- .element: class="fragment" data-fragment-index="1" -->
-
-
-## This is a vertical-slide
-You make these by placing 2 line-breaks within the source.
-
-Vertical-slides are good for drilling in to topics. Think of it as a _details_ slide. If you're short on time, you can skip past these slides by moving `RIGHT`.
+**True, his improvisation skills were raw, but his work with props and thousand watt smile made up for that a thousand-million times over.**
 
 
 
-## You can put images in a slide
-
-![alt text](assets/logo.png "Logo Title Text 1")
-
-![external image](https://raw.githubusercontent.com/maptime/maptime.github.io/master/img/xmaptime-logo-web-header-rainbonly.png.pagespeed.ic.sUvy41gYSf.png "External Image Example")
+## But... There was the whole thing of Middlebrow being for Middlebury students.
 
 
 
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-
-_Cool background, right?_<!-- .element: class="fragment" data-fragment-index="1" -->
-```
-<!-- .slide: data-background="MintCream" -->
-## Style
-
-You can style each slide individually.
-```
+## But... There was his familial relationship with a current member.
 
 
 
-## Hey, it even supports code!
-
-```
-var marker = L.marker([49, 5.49]).addTo(map);
-var polygon = L.polygon([
-  [51.509, -0.08],
-  [51.503, -0.06],
-  [51.51, -0.047]
-]).addTo(map);
-marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
-polygon.bindPopup("I am a polygon.");
-```
+## **AGAINST OUR BETTER JUDGMENT**
+**we decided not to take him on as a full Middlebrow member. We made a mistake that day. Below we imagine how Middlebrow might have looked if we'd gotten it right...**
 
 
 
-## Want to see something _really_ crazy?
+![alt text](assets/BandBrau.JPG "Initiation!")
 
-Press `S` to check out the 'Presentation Mode'.
-
-Note:
-The idea is that you put the other window on a shared screen, like a projector, and view this screen on your laptop. Btw, this note is only visible to the presenter.
+Jim's initiation! Little did he know what this band of hoodlums had in store for him
 
 
 
-## That's about it
+![alt text](assets/WhipIt.JPG "Whip it!")
 
-There are a bunch of cool things you can do with **Reveal.js** and **Markdown**.
+Jim's "long hair don't care phase" a requisite style for Middlebrow's male members
 
-Check out Reveal.js' [example slides](http://lab.hakim.se/reveal-js/) for more quick examples of what you can do with Reveal.js.  Check out Reveal.js' [Readme](https://github.com/hakimel/reveal.js/blob/master/README.md) and its [wiki](https://github.com/hakimel/reveal.js/wiki) (especially the [Articles & Tutorials](https://github.com/hakimel/reveal.js/wiki/Articles-&-Tutorials) section) for greater detail about using Reveal.js.  
 
-Check out this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for a quick intro into using Markdown.
+
+![alt text](assets/WhiteBrau.JPG "Chillin!")
+
+Jim relaxing w/co before his first show!
+
+
+
+![alt text](assets/EleBrau.JPG "Dig it!")
+
+Alyssa super proud of Jim's character commitment
+
+
+
+![alt text](assets/BenchBrau.JPG "Bench!")
+
+The Limperi cam smile harder than anyone! Especially the Urquidi
+
+
+
+![alt text](assets/APBrau.JPG "Go for it!")
+
+Look, we get it, you guys have comedic chemistry. How about doing a scene with someone else?
+
+
+
+![alt text](assets/StageBrau.JPG "Big cup!")
+
+Jim's a little skeptical of the prop work here. Hopefully its just a long cup.
+
+
+
+![alt text](assets/PajamaBrau.JPG "Pro puppeteer!")
+
+And fit too!
+
+
+
+![alt text](assets/CabinBrau.JPG "Pro puppeteer!")
+
+Jim teaching the group deconstructed puppet prov. Or making shadow puppets
+
+
+
+![alt text](assets/CheBrau.JPG "Pro puppeteer!")
+
+Jim leading the next generation of Brau
