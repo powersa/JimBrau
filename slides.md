@@ -5,7 +5,7 @@
 
 
 
-**On a cold February week in 2011, Middlebrow was faced with a dilemma. Though the group was on tour, they had encountered a *once in a generation* comedic talent in a small Rhode Island town.**
+**On a cold February week in 2011, Middlebrow was faced with a dilemma. Though the group was on tour, they had encountered a *once in a generation* comedic talent in a small New England town.**
 
 
 
@@ -83,3 +83,11 @@ Jim teaching the group deconstructed puppet prov. Or making shadow puppets
 ![alt text](assets/CheBrau.JPG "Pro puppeteer!")
 
 Jim leading the next generation of Brau
+
+
+
+### **Note:** 
+
+**We tried to find a picture of Jim not smiling. It was impossible. Sending you lots of love. 
+
+Middlebrow**
