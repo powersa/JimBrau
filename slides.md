@@ -17,12 +17,12 @@
 
 
 
-## But... There was his familial relationship with a current member.
+## And... There was his familial relationship with a current member.
 
 
 
 ## **AGAINST OUR BETTER JUDGMENT**
-**we decided not to take him on as a full Middlebrow member. We made a mistake that day. Below we imagine how Middlebrow might have looked if we'd gotten it right...**
+**we decided not to take him on as a full Middlebrow member. We made a mistake that day. Let's imagine how Middlebrow might have looked if we'd gotten it right...**
 
 
 
